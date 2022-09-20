@@ -14,14 +14,14 @@ function App() {
      
      <BrowserRouter>
         <Routes>
-              <Route path="/del-plata/" element={<Home></Home>}/>
-              <Route path="/del-plata/iniciar-sesion" element={<IniciarSesion/>}/>
-              <Route path="/del-plata/crear-cuenta" element={<CrearCuenta></CrearCuenta>}/>
-              <Route path="/del-plata/sucursales" element={<Sucursales></Sucursales>}/>
-              <Route path="/del-plata/servicios" element={<Servicios></Servicios>}/>
-              <Route path="/del-plata/profesionales" element={<Profesionales></Profesionales>}/>
-              <Route path="/del-plata/organizacional" element={<Organizacional></Organizacional>}/>
-              <Route path="*" element={<Navigate to='/del-plata/'></Navigate>}/>
+              <Route path="/DPS/" element={<Home></Home>}/>
+              <Route path="/DPS/iniciar-sesion" element={<IniciarSesion/>}/>
+              <Route path="/DPS/crear-cuenta" element={<CrearCuenta></CrearCuenta>}/>
+              <Route path="/DPS/sucursales" element={<Sucursales></Sucursales>}/>
+              <Route path="/DPS/servicios" element={<Servicios></Servicios>}/>
+              <Route path="/DPS/profesionales" element={<Profesionales></Profesionales>}/>
+              <Route path="/DPS/organizacional" element={<Organizacional></Organizacional>}/>
+              <Route path="*" element={<Navigate to='/DPS/'></Navigate>}/>
 
        </Routes>
       </BrowserRouter>
