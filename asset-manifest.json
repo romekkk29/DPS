@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/DPS/static/css/main.6958e375.css",
+    "main.js": "/DPS/static/js/main.69a8162f.js",
+    "static/js/787.dbd83463.chunk.js": "/DPS/static/js/787.dbd83463.chunk.js",
+    "static/media/sucursales.png": "/DPS/static/media/sucursales.de9a22662ef61f8b4512.png",
+    "static/media/crear.jpg": "/DPS/static/media/crear.72347f031460ce2c67da.jpg",
+    "static/media/farmacia.png": "/DPS/static/media/farmacia.e83d8bb95b2b1cebb431.png",
+    "static/media/entrar.jpg": "/DPS/static/media/entrar.42c71d0bf1f09ae46382.jpg",
+    "static/media/profesionales.png": "/DPS/static/media/profesionales.7c683a6dbd278efd10da.png",
+    "static/media/organizaciones.png": "/DPS/static/media/organizaciones.99af4b530de9e77c1fbe.png",
+    "static/media/servicios.png": "/DPS/static/media/servicios.93d2d4ca1cfc73c8c535.png",
+    "static/media/Logo.svg": "/DPS/static/media/Logo.0c6e05c380b5128cb9704b44a9b4ac78.svg",
+    "static/media/iconorg.svg": "/DPS/static/media/iconorg.969af8ce4f6d8fabf99606b7a242e05f.svg",
+    "static/media/tel.svg": "/DPS/static/media/tel.e89bff08a4230ca262268a3a04aba46f.svg",
+    "static/media/Case.svg": "/DPS/static/media/Case.7ea4de8c550d94e152112b057251f654.svg",
+    "static/media/24.svg": "/DPS/static/media/24.06aa036888ab7cd9fd77df1d7ed99918.svg",
+    "static/media/iconservice.svg": "/DPS/static/media/iconservice.9bfb959ac79f50023d9b37a0a0be2ae8.svg",
+    "static/media/Shape.svg": "/DPS/static/media/Shape.2ad3cd1e3234f81af34cc5e2a0d1b02e.svg",
+    "static/media/Arrow.svg": "/DPS/static/media/Arrow.983f81dfc90df1333ad1e5fc43223ac6.svg",
+    "static/media/sucursales.svg": "/DPS/static/media/sucursales.3cfeab447d4dbc90c9dd463f06557390.svg",
+    "index.html": "/DPS/index.html",
+    "static/media/farmacia.svg": "/DPS/static/media/farmacia.c6fb53766a5d222fe70ffa882faa114a.svg",
+    "main.6958e375.css.map": "/DPS/static/css/main.6958e375.css.map",
+    "main.69a8162f.js.map": "/DPS/static/js/main.69a8162f.js.map",
+    "787.dbd83463.chunk.js.map": "/DPS/static/js/787.dbd83463.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6958e375.css",
+    "static/js/main.69a8162f.js"
+  ]
+}
